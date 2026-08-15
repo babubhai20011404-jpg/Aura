@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Calm, transparent, and instant USDT to INR settlements with real-time quotes, clear fee breakdowns, and direct bank payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
